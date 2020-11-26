@@ -1,1 +1,2 @@
-# race-game-1-structure
+# synchronousBallMovement
+Ball moving synchronously
